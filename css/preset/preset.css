@@ -24,7 +24,7 @@ li {
   font-size: 200%;
 }
 .background {
-  background: linear-gradient(red, yellow);
+  background: red
 }
 .borders {
   border: 3px dashed red;
